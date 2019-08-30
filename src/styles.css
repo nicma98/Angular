@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url('./assets/login-fondo.jpg');
+    background-repeat:repeat;
+    background-size:100%; 
+    font-family: 'Livvic', sans-serif;
+}
+p{
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
